@@ -1,12 +1,6 @@
 # Car_Dekho_Data_Analysis
 <h2>About the Project</h2>
-This course will help you to understand the basics of data analytics, pandas, numpy and matplotlib.
-
-<h2>Learning Outcomes</h2>
-1. Basics of data analytics , pandas , numpy and matplotlib<br>
-2. Data analytics case study on car dekho
-
-<h2>This repository contains Python scripts for analyzing a dataset of vehicle sales. The scripts use the pandas library to perform various analyses on the dataset, including:</h2>
+<h3>This repository contains Python scripts for analyzing a dataset of vehicle sales. The scripts use the pandas library to perform various analyses on the dataset, including:</h3>
 1. Counting the number of different vehicles in the dataset.<br>
 2. Finding the most and least sold vehicles.<br>
 3. Calculating the depreciation of each vehicle and identifying the vehicles with the most and least depreciation.<br>
